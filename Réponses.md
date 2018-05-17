@@ -89,14 +89,16 @@ http://wannovar.wglab.org/done/159923/lL2GfKVXN_uIjR0J/index.html
 Le DOI de cet article est 10.1038/gim.2015.30
 # Q21
 Les critères déterminant une variation pathogène sont :
-* la variation est absente dans les populations des bases de données
-* la prévalence chez les patients atteints est statistiquement augmentée par rapport aux sujets controles
-* le variant modifie la longueur de la protéine
-* Un changement du même acide-aminé peut donner un variant pathogénique établi
-* il s'agit d'un point chaud de mutations ou d'un domaine fonctionnelle bien étudié qui n'a pas de mutation bénignes.
-* de bonnes études fonctionnelles montrent un effet délétère
-* des études de co-ségrégation avec la maladie dans de nombreuses familles atteintes montrent un lien fort entre la variation et la pathologie
-* la mutation est de novo (en confirmant si possible la paternité et la maternité)
+* 1. la variation est absente dans les populations des bases de données
+* 2. la prévalence chez les patients atteints est statistiquement augmentée par rapport aux sujets controles
+* 3. le variant modifie la longueur de la protéine
+* 4. Un changement du même acide-aminé peut donner un variant pathogénique établi
+* 5. il s'agit d'un point chaud de mutations ou d'un domaine fonctionnelle bien étudié qui n'a pas de mutation bénignes.
+* 6. de bonnes études fonctionnelles montrent un effet délétère
+* 7. des études de co-ségrégation avec la maladie dans de nombreuses familles atteintes montrent un lien fort entre la variation et la pathologie
+* 8. la mutation est de novo (en confirmant si possible la paternité et la maternité)
 # Q22
-*
-
+* Une publication (Q19) montre qu'une mutation sur le même acide aminé donne une pathologie : PS 1
+* La mère est atteinte, ce n'est donc pas une mutation de novo.
+* Sur GNOMAd, le variant X-595474 (qui correspond à cette mutation) n'est pas répertorié : PM 2
+* Sur OMIM : "They also identified a functionally significant SHOX mutation (312865.0001) by screening 91 individuals with idiopathic short stature" : PS 4
