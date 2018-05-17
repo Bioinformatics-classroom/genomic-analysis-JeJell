@@ -88,7 +88,7 @@ http://wannovar.wglab.org/done/159923/lL2GfKVXN_uIjR0J/index.html
 # Q20
 Le DOI de cet article est 10.1038/gim.2015.30
 # Q21
-Les critères déterminant une variation pathogène sont :
+Les critères déterminant une variation pathogène sont (entre autres) :
 * 1. la variation est absente dans les populations des bases de données
 * 2. la prévalence chez les patients atteints est statistiquement augmentée par rapport aux sujets controles
 * 3. le variant modifie la longueur de la protéine
@@ -102,3 +102,4 @@ Les critères déterminant une variation pathogène sont :
 * La mère est atteinte, ce n'est donc pas une mutation de novo.
 * Sur GNOMAd, le variant X-595474 (qui correspond à cette mutation) n'est pas répertorié : PM 2
 * Sur OMIM : "They also identified a functionally significant SHOX mutation (312865.0001) by screening 91 individuals with idiopathic short stature" : PS 4
+On a deux PS, la mutation est donc pathogénique.
