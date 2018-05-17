@@ -106,6 +106,7 @@ Ce variant peut donner :
 
 - un variant dans un exon non-codent avec une probabilité de 14 %
 # Q17
+Il y a plusieurs version du transcrit dans la base de donnée.
 # Q18
 # Q19
 http://wannovar.wglab.org/done/159923/lL2GfKVXN_uIjR0J/index.html
