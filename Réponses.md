@@ -8,13 +8,15 @@ Le génome de référence (GRCh 37)
 Sur le chromosome 18
 ### Q3
 NC_000018.9:g.52895531T>C devient NM_001243236.1:c.1449A>G par exemple (il y a d'autres  transcrits dans la base de donnée de Mutalyser qui présentent cette variation).
+
 NC_000018.9:g.52999284delG devient NM_001243232.1:c.336+18306delC par exemple (il y a d'autres  transcrits dans la base de donnée de Mutalyser qui présentent cette variation).
+
 NC_000018.9:g. 53331929C>A ne possède pas de transcrit dans la base de donnée de Mutalyser. On suppose que c'est une mutation rare ou qu'elle est hors de l'exon.
 rmq : en fait, Mutalyser utilise RefSeq. Or il n'y a pas de variant dans la base de donnée de RefSeq, mais il y en a un dans Ensembl (voir Q5). C'est donc une mutation très rare.
 
 
-Les deux première mutations sont transcrites en ARNm tandis que la troisième n'est pas transcrite.
-La mutation T>C devient A>G, odnc le brin trancrit est le brin anti-sens.
+Les deux premières mutations sont transcrites en ARNm tandis que la troisième n'est pas transcrite.
+La mutation T>C devient A>G, donc le brin trancrit est le brin anti-sens.
 
 ### Q4
 Pour NC_000018.9:g.52895531T>C : fréquence (génome) = 0.3747 (exome : fréquence = 0.3750)
