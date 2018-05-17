@@ -57,7 +57,7 @@ La notation HGVS au niveau de la protéine est NM_000451.3(SHOX_i001):p.(Glu133A
 NM_000451.3(SHOX_i001):p.(Glu133Asp)
 NM_ signifie qu'il s'agit d'ARNm
 000451.3 signigie que le numéro de transcrit du gène est 451 et qu'il s'agit de la 3ième version.
-(SHOX_i001) signifie qu'on est dans le gène SHOX.
+(SHOX_i001) signifie qu'on est dans le gène SHOX (et isoforme).
 p. signifie qu'on s'intéresse aux données protéomiques.
 (Glu133Asp) signifie que le Glutamate en position 133 devient un acide Aspartique.
 # Q8
@@ -71,4 +71,30 @@ Le gène SHOX comporte 6 exons.
 # Q12
 La mutation se trouve dans l'exon 3.
 # Q13
-Ce n'est pas une région très conservée.
+C'est une région très conservée car il s'agit d'un exon.
+# Q14
+Le variant se trouve dans le domaine fonctionnel "HomeoBox Domain".
+# Q15
+Cette mutation a déjà été décrite dans la publication :
+"Short stature before puberty: which children should be screened for SHOX deficiency?" de Wolters B.
+# Q16
+Ce variant peut donner :
+- un variant non-sens avec une probabilité de 86 %
+- un variant dans un exon non-codent avec une probabilité de 14 %
+# Q17
+# Q18
+# Q19
+http://wannovar.wglab.org/done/159923/lL2GfKVXN_uIjR0J/index.html
+# Q20
+Le DOI de cet article est 10.1038/gim.2015.30
+# Q21
+Les critères déterminant une variation pathogène sont :
+* la variation est absente dans les populations des bases de données
+* la prévalence chez les patients atteints est statistiquement augmentée par rapport aux sujets controles
+* le variant modifie la longueur de la protéine
+* Un changement du même acide-aminé peut donner un variant pathogénique établi
+*
+* de bonnes études fonctionnelles montrent un effet délétère
+* des études de co-ségrégation avec la maladie dans de nombreuses famuilles atteintesmontre un lien fort entre la variation et la pathologie
+* la mutation est de novo (en confirmant si possible la paternité et la maternité)
+
